@@ -1,4 +1,4 @@
-#include<stdio.h>
+Ya#include<stdio.h>
 int main()
 {
  int a[20],b[20],c[40],i,j,n,m;
@@ -31,5 +31,6 @@ int main()
   printf("%d ",c[i]);
  }
  return 0;
+}
 
 
